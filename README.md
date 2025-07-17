@@ -1,4 +1,4 @@
-# 📊 EDA on Customer Bookings (Python)
+# EDA on Customer Bookings (Python)
 
 This is a portfolio project showcasing exploratory data analysis (EDA) using Python on a simulated customer bookings dataset.
 
@@ -10,7 +10,7 @@ This is a portfolio project showcasing exploratory data analysis (EDA) using Pyt
 
 ## Files Included
 - `EDA_Bookings_Analysis.ipynb` — Python notebook with full analysis
-- *(More coming soon: SQL queries and Power BI dashboard)*
+  
 
 ## Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
@@ -23,6 +23,5 @@ This is a portfolio project showcasing exploratory data analysis (EDA) using Pyt
 - Channel-wise Performance: Compared Online vs Store
 - Top Customers: Identified high-value repeat users
 - Anomaly Detection: Flagged revenue dips below rolling average
-
-> This project is still in progress. SQL & Power BI coming next.
+  
 > Built for interview prep, portfolio proof, and skill sharpening.
